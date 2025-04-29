@@ -1,6 +1,6 @@
 # 📦 Releases de Negosy Punto de Venta Desktop – Negosy SAC  
 
-Bienvenido al repositorio de releases de **Punto de Venta Desktop** (Kitchen Display System) de **Negosy SAC**.  
+Bienvenido al repositorio de releases de **Punto de Venta Desktop** de **Negosy SAC**.  
 Aquí encontrarás las versiones más recientes del software, optimizado para ofrecer un desempeño eficiente en entornos de cocina profesional.  
 
 ## 🖥️ Plataformas Soportadas  
